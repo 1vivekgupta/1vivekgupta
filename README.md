@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Gupta</h1>
-<h3 align="center">I am a passionate web developer from New Delhi,📍 🇮🇳 India. I have a deep love for collaborating with people, and one of the things that truly excites me is brainstorming. It gives me an adrenaline rush and fuels my creativity.</h3>
+<h3 align="center">I am a Passionate Web Developer from New Delhi,📍 🇮🇳 India. I have a Deep love for Collaborating with people, and one of the things that truly excites me is Brainstorming. It gives me an Adrenaline rush and fuels my Creativity.</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1vivekgupta&label=Profile%20views&color=0e75b6&style=flat" alt="1vivekgupta" /> </p>
 
-<! --<p align="left"> <a href="https://twitter.com/vivekgupta" target="blank"><img src="https://img.shields.io/twitter/follow/vivekgupta?logo=twitter&style=for-the-badge" alt="vivekgupta" /></a> </p> -->
 
 - 🌱 I’m currently learning **React.js and Machine Learning**
 
