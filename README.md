@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1vivekgupta&label=Profile%20views&color=0e75b6&style=flat" alt="1vivekgupta" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vivekgupta" target="blank"><img src="https://img.shields.io/twitter/follow/vivekgupta?logo=twitter&style=for-the-badge" alt="vivekgupta" /></a> </p>
+<! --<p align="left"> <a href="https://twitter.com/vivekgupta" target="blank"><img src="https://img.shields.io/twitter/follow/vivekgupta?logo=twitter&style=for-the-badge" alt="vivekgupta" /></a> </p> -->
 
 - 🌱 I’m currently learning **React.js and Machine Learning**
 
