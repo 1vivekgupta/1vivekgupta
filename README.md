@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1vivekgupta](https://github.com/1vivekgupta)
 
-- 📝 I regularly write articles on [https://medium.com/@vivekdeveloper01](https://medium.com/@vivekdeveloper01)
 
-- 📫 How to reach me **vivekdeveloper01@gmail.com**
 
-- 🪢 My Linkedin Id [https://www.linkedin.com/in/guptavivek01](https://www.linkedin.com/in/guptavivek01)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
